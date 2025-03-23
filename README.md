@@ -18,7 +18,9 @@ A Python-based web scraper to extract the most actively traded stocks data from 
 - **Python**: Core programming language.
 - **Selenium**: For browser automation and web scraping.
 - **Pandas**: For data manipulation and cleaning.
+- **NumPy**: For numerical operations and data processing.
 - **OpenPyXL**: For saving data to Excel files.
+- **IPykernel**: For running Python code in Jupyter Notebook.
 
 ---
 
